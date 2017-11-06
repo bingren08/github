@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-@version: 1.0
-@author: wukun3
-@license: Lenovo Licence 
-@contact: wukun3@lenovo.com
-@site: http://www.lenovo.com
-@software: lenovo
-@file: titanic.py
-@time: 11/6/17 3:14 PM
+
 """
 import re
 import os
