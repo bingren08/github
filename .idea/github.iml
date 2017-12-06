@@ -4,6 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="LepsService" />
+    <orderEntry type="module" module-name="dw" />
+    <orderEntry type="module" module-name="model" />
+    <orderEntry type="module" module-name="alg" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />

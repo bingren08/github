@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LepsService/.idea/LepsService.iml" filepath="$PROJECT_DIR$/../LepsService/.idea/LepsService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zoomlion/model/alg/.idea/alg.iml" filepath="$PROJECT_DIR$/../zoomlion/model/alg/.idea/alg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dw/.idea/dw.iml" filepath="$PROJECT_DIR$/../dw/.idea/dw.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/github.iml" filepath="$PROJECT_DIR$/.idea/github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zoomlion/model/.idea/model.iml" filepath="$PROJECT_DIR$/../zoomlion/model/.idea/model.iml" />
     </modules>
   </component>
 </project>
